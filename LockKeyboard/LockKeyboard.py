@@ -9,7 +9,7 @@ Allowed_chars = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm'
 MouseEnabled = True
 Password = []
 password_salt = b'$2b$12$abcdefghijk1234567890uv'
-Real_Pass_hash = "$2b$12$abcdefghijk1234567890uvebfahMd1MXh9fJML1qigno8MiKkT0m"
+Real_Pass_hash = "YOURHASH"
 Alt_pressed_count = 0
 # --------------------- Variable Setup End --------------------- #
 
