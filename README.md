@@ -6,7 +6,7 @@ The program uses bcrypt and a fixed password salt. There's 2 files, "Generate ha
 Make sure to generate a hash with the "Generate_Hash.py" program first, then change the variable "Real_Pass_hash" value in the "LockKeyboard.py" file.
 
 **WARNING**
---**CHANGE THE PASSWORD TO YOUR GENERATED HASH BEFORE YOU RUN**--
+--**CHANGE THE PASSWORD TO YOUR GENERATED HASH BEFORE YOU RUN LOCKKEYBOARD**--
 
 **REQUIREMENTS**
 bcrypt
